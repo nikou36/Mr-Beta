@@ -1,0 +1,8 @@
+like.png :<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+home_feed_empty_heart.png:<div><a target="_blank" href="undefined/icons/set/like--v1">Heart icon</a> icon by <a target="_blank" href="">Icons8</a>
+home_feed_filled_heart.png: <a href="https://icons8.com/icon/7697/heart">Heart icon by Icons8</a>
+
+main_activity_quill_pen :<a target="_blank" href="undefined/icons/set/feather">Feather icon</a> icon by <a target="_blank" href="">Icons8</a>
+main_activity_chat: <a target="_blank" href="undefined/icons/set/chat">Chat icon</a> icon by <a target="_blank" href="">Icons8</a>
+cooking_time.png: <img src="https://img.icons8.com/android/24/000000/clock.png"/>
+serve_people_icon.png: <a target="_blank" href="undefined/icons/set/waiter">Waiter icon</a> icon by <a target="_blank" href="">Icons8</a>
